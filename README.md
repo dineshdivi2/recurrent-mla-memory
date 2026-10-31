@@ -86,6 +86,10 @@ Fast/slow memory, goal-conditioned updates, agent orchestration, and durable ret
 
 See [research positioning](docs/03-research-positioning.md).
 
+## Focus control
+
+A related question is whether working notes can steer the model toward its current idea and away from overturned ones. See [focus control](docs/04-focus-control.md).
+
 ## Status
 
-Early research memo and experiment design. The next milestone is a minimal benchmark that can falsify the working-memory hypothesis before a larger training effort.
+Early research memo and experiment design. The next milestone is a minimal benchmark that can falsify the working-memory hypothesis before a larger training effort. The first runnable step is the [stale-hypothesis diagnostic](benchmarks/stale_hypothesis/README.md), which has no results yet.
